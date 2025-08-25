@@ -2,10 +2,8 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=300&color=gradient&text=Welcome%20&reversal=false&desc=to%20my%20profile&fontSize=70"/>
 </p>
-<!--
-**Ergox/Ergox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img height="50" src="https://imgur.com/a/oYcFL6S"/>
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
