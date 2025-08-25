@@ -9,6 +9,6 @@
 I'm just a dude who writes code for fun, or to solve a problem. After all, that's what programming is all about.
 
 ## Some stats here 📋
-<p align="center">
+
   ![Ergox's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ergox&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
-</p>
+
