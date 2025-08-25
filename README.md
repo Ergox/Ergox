@@ -21,7 +21,8 @@ I'm just a dude who writes code for fun, or to solve a problem. After all, that'
 
 ## 💻 Tech stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,express,socketio,cpp,python,html,css,cs" alt="Ikony technologii"/>
+  <p align="center">
+  <img src="https://skillicons.dev/icons?i=js,nodejs,express,cpp,python,html,css,cs" alt="Ikony technologii" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" alt="Socket.io" width="45"/>
 </p>
 
