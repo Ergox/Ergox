@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=300&color=gradient&text=Welcome%20&reversal=false&desc=to%20my%20profile&fontSize=70"/>
 </p>
-<img height="50" src="https://imgur.com/a/oYcFL6S"/>
+<img height="50" src="https://i.imgur.com/o2DoFeO.gif"/>
 
 
 - 🔭 I’m currently working on ...
