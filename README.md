@@ -2,8 +2,9 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=300&color=gradient&text=Welcome%20&reversal=false&desc=to%20my%20profile&fontSize=70"/>
 </p>
-<img src="https://i.imgur.com/o2DoFeO.gif"/>
-
+<div style="text-align: center">
+  <img src="https://i.imgur.com/o2DoFeO.gif"/>
+</div>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
